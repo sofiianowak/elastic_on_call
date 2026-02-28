@@ -6,6 +6,8 @@
 
 When production goes down, on-call engineers waste 15-20 minutes hunting through logs and searching for past tickets. **ElasticOnCall automates this in seconds.**
 
+ 🚀 [Live Demo on Streamlit Cloud](https://elastic-on-call.streamlit.app/)
+
 ## Architecture
 
 ```mermaid
@@ -67,3 +69,4 @@ Inside Kibana:
 ---
 
 *Built with ❤️ for the Elasticsearch Agent Builder Hackathon 2026*
+
